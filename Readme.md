@@ -83,3 +83,4 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 - [ ] 25.- Crear las variables **preI** y **preJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de preI el valor de ++preJ**
 
 - [ ] 26.- Crear la variable **sumaImpares** con valor **0** a continuación crea un bucle que **itere 10 veces (i < 10) si la iteración es impar se deberá sumar a sumaImpares el número de la iteración actual (i)**
+
